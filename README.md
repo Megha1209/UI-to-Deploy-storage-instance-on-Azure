@@ -1,3 +1,13 @@
+A User Interface is created with front-end using
+Angular.js wherein the user can enter the parameters
+for the storage required to be created on Azure. The
+User can directly create the storage from the UI. The
+back-end is using Spring Boot and Java program
+which deploys the ARM template to create MySQL
+instance or storage.
+
+
+
 # UserRegistrationClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
